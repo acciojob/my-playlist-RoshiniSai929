@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.player_one{
+	background-color: white;
+	border: 1px solid grey;
+}
+body{
+	background-color: lightgrey;
+}
+.player_two{
+	background-color:white;
+	padding: 5px;
+    background-position: center;
+	border: 1px solid grey;
+	margin-left: auto;
+	margin-right:auto;
+    width: max-content;
+}
